@@ -11,3 +11,11 @@ This is done by updating the provided Python file done in previous excercises of
 ### Results
 <img src="./images/1.png" title="hover text"><br>
 <img src="./images/2.png" title="hover text"><br>
+
+### Import and Dependencies
+- streamlit 
+- dataclasses 
+- typing 
+- datetime 
+- pandas 
+- hashlib
