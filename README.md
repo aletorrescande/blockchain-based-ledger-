@@ -9,5 +9,5 @@ This is done by updating the provided Python file done in previous excercises of
 4) Test the PyChain Ledger by Storing Records.
 
 ### Results
-<img src="./images/1.png" width="350" title="hover text"><br>
-<img src="./images/2.png" width="350" title="hover text"><br>
+<img src="./images/1.png" title="hover text"><br>
+<img src="./images/2.png" title="hover text"><br>
